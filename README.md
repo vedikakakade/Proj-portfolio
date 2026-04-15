@@ -1,5 +1,4 @@
-# 🚀 Student Portfolio Website
-
+My portfolio
 A **modern, minimal, and beginner-friendly** portfolio template built with vanilla HTML, CSS, and JavaScript. Designed for Second Year Engineering (SE) students who want a professional online presence — **no frameworks, no npm, no complexity**.
 
 > ✏️ **Edit one file (`data.js`) and your portfolio is ready.**
