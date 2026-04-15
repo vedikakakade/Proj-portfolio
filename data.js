@@ -12,20 +12,17 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Vedika Kakade",
+  firstName: "Vedika",   // Used in the hero greeting
+  lastName: "Kakade",      // Displayed large in the hero section
+  tagline: "Turning Ideas into Interactive Web Solutions",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
-things that live on the internet. I love exploring new technologies, 
-writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+    description: `I'm a second-year engineering student with a strong passion for web development and building real-world projects. I enjoy writing clean, efficient code and continuously learning new technologies. I aim to create user-friendly and impactful digital experiences while improving my problem-solving skills every day.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
@@ -106,7 +103,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "Kalmadi Junior College, Pune",
       duration: "2022 – 2024",
       description: "Science stream with Computer Science. Scored 89%.",
     },
@@ -114,7 +111,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       degree: "SSC (10th Grade)",
       institution: "XYZ High School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 92.07% with distinction.",
     },
   ],
 
